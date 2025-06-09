@@ -6,7 +6,7 @@ codes for chemical evolution studies
    $ g++ integration.cpp
 3. You can find a.out in the folder
    $ ls
-4. Run a.out and you get something like this
+5. Run a.out and you get something like this
    $ ./a.out
    ../data/list_models_cl04.txt
 reading SNIa:SNIa
