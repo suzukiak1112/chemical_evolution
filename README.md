@@ -1,12 +1,12 @@
 # chemical_evolution
 codes for chemical evolution studies
 
-1. Download the files (integratin.cpp, physc.h, parameter.h, chemical.h) to the same folder.
-2. Compile integration.cpp by
+# 1. Download the files (integratin.cpp, physc.h, parameter.h, chemical.h) to the same folder.
+# 2. Compile integration.cpp by
    $ g++ integration.cpp
-3. You can find a.out in the folder
+# 3. You can find a.out in the folder
    $ ls
-5. Run a.out and you get something like this
+# 4. Run a.out and you get something like this
    $ ./a.out
    ../data/list_models_cl04.txt
 reading SNIa:SNIa
@@ -26,5 +26,5 @@ reading HNe: HNe_Z000
 reading HNe: HNe_Z001
 ......
 
-5.It finishes by creating results, abundance.txt and evolution.txt
+# 5. It finishes by creating results, abundance.txt and evolution.txt
    
